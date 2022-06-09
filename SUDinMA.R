@@ -54,7 +54,7 @@ scale_color_manual(values = color_group) +
     axis.text = element_text(color=lines, size=9),
     axis.title.x  = element_blank(),
     axis.line = element_line(),
-    plot.title = element_text(hjust=0,size=26, color=lines,lineheight=.8, face="bold", margin=margin(0,0,10,0)),
+    plot.title = element_text(hjust=0,size=20, color=lines,lineheight=.8, face="bold", margin=margin(0,0,10,0)),
     plot.subtitle = element_text(hjust=0,size=12, color=lines, margin=margin(0,0,20,0)),
     plot.caption = element_text(hjust=0, margin=margin(20,0,0,0), size=10, color=lines),
     plot.title.position = "plot",
